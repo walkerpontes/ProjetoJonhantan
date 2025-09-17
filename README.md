@@ -21,11 +21,12 @@ no PC:
 tu baixa o WO mic client: https://wolicheng.com/womic/download.html
 instala os drivers e reinicia o pc
 dentro do software, vai na aba connection-> connect...-> bluetooth e conecta com o celular
-se nao aparecer, parear manualmente pelo windows
+se nao aparecer, parea manualmente pelo windows, verifica se apareceu no wo, seleciona 
 e dps aperta em connect
-verifique no windows ta usando o wo mic como mic principal de entrada
+verifique no windows se ta usando o wo mic como mic principal de entrada
 depois disso ta feito, teu celular virou um mic
 
 
 
 depois testa o codigo pra ve se o reconhecimento ta funcionando
+
