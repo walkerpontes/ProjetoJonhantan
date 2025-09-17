@@ -2,7 +2,7 @@ Python 3.11 é necessario pq o pyaudio so funciona em versoes abaixo dessa
 
 pip install SpeechRecognition 
 
-pip install pyaudio #ele é o responsavel pela conexao do bluetooth, tu nao precisa importar pq o recognition usa ele por debaixo dos panos
+pip install pyaudio
 
 
 
@@ -25,6 +25,7 @@ se nao aparecer, parear manualmente pelo windows
 e dps aperta em connect
 verifique no windows ta usando o wo mic como mic principal de entrada
 depois disso ta feito, teu celular virou um mic
+
 
 
 depois testa o codigo pra ve se o reconhecimento ta funcionando
